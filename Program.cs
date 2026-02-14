@@ -12,7 +12,7 @@ foreach (var item in valasztas)
 {
     Console.WriteLine(item);
 }
-Console.WriteLine($"A választáson {valasztas.Length} választó vett részt.");
+Console.WriteLine($"A választáson {valasztas.Length} választó vett részt.\n");
 
 //Hány válsztó vett részt?
 int S = 0 ;
@@ -20,4 +20,6 @@ for (int i = 0; i < valasztas.Length; i++)
 {
     string[] darab = valasztas[i].Split(' ');
     S+= int.Parse(darab[1]);
+
 }
+Console.WriteLine($"A választáson {S} választó szavazott.");
