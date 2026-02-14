@@ -1,0 +1,15 @@
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/bin/Debug/net10.0/ElsoProjekt
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/bin/Debug/net10.0/ElsoProjekt.deps.json
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/bin/Debug/net10.0/ElsoProjekt.runtimeconfig.json
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/bin/Debug/net10.0/ElsoProjekt.dll
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/bin/Debug/net10.0/ElsoProjekt.pdb
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ElsoProjekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ElsoProjekt.AssemblyInfoInputs.cache
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ElsoProjekt.AssemblyInfo.cs
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ElsoProjekt.csproj.CoreCompileInputs.cache
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ElsoProjekt.sourcelink.json
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ElsoProjekt.dll
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/refint/ElsoProjekt.dll
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ElsoProjekt.pdb
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ElsoProjekt.genruntimeconfig.cache
+/Users/megyerimark/Desktop/Egyetem/prog2/ElsoProjekt/obj/Debug/net10.0/ref/ElsoProjekt.dll
